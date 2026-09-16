@@ -11,4 +11,4 @@ venv.bak/
 # Artifacts folders and log folders
 Artifacts/
 Logs/
-
+Data/
