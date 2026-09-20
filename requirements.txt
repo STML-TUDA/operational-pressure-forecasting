@@ -1,3 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+torchvision
+optuna
 pandas>=2.2
 numpy>=1.26
 ipykernel
