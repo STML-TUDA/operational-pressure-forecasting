@@ -72,3 +72,15 @@ When uploading the final archive, use the same model name as the validation row 
 - Document training and inference steps in README.
 - Fix random seeds where reasonable.
 - State all important hyperparameters.
+
+
+### Best parameter based on our study.
+```
+{'num_hidden_layer': 4,
+ 'neurons_per_layer': 112,
+ 'dropout_rate': 0.13106877705684547,
+ 'BATCH_SIZE': 256,
+ 'max_lr': 0.007225703793740661,
+ 'WEIGHT_DECAY': 0.00041691912222247235,
+ 'optimizer': 'Adam'}
+ ```
